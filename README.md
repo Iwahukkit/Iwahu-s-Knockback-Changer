@@ -4,14 +4,14 @@ A lightweight, high-performance Spigot/Paper 1.8 knockback management plugin des
 
 ---
 
-## Features
+[![Features](https://raw.githubusercontent.com/Iwahukkit/Iwahu-s-Knockback-Changer/refs/heads/main/features.png)]()
 - **Zero Relog Advantage:** Operates via instant vector manipulation without relying on custom proxy or core hacks.
 - **Customizable Presets:** Ready-to-use configurations modeled after popular PvP networks.
 - **Optimized Performance:** Built with tick-delay logic to prevent vanilla combat glitches and aerial over-extension.
 
 ---
 
-## Included Presets
+[![Preset](https://raw.githubusercontent.com/Iwahukkit/Iwahu-s-Knockback-Changer/refs/heads/main/presets.png)]()
 The `config.yml` includes pre-configured settings inspired by legendary practice networks:
 - **\Min*m*n Clb (M*C)\**
 - **\K*hi\**
@@ -20,7 +20,7 @@ The `config.yml` includes pre-configured settings inspired by legendary practice
 
 ---
 
-## Configuration (`config.yml`)
+[![CONF](https://raw.githubusercontent.com/Iwahukkit/Iwahu-s-Knockback-Changer/refs/heads/main/config.png)]()
 
 ```yaml
 # Iwahu's Knockback Configuration
