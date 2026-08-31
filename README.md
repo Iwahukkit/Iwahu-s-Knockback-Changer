@@ -24,37 +24,6 @@ The `config.yml` includes pre-configured settings inspired by legendary practice
 
 ---
 
-<img src="https://raw.githubusercontent.com/Iwahukkit/Iwahu-s-Knockback-Changer/refs/heads/main/config.png" width="400">
-
-```yaml
-# Iwahu's Knockback Configuration
-# Customize horizontal, vertical, and extra modifiers below.
-
-settings:
-  preset: "MinemenClub"
-
-presets:
-  MinemenClub:
-    horizontal: 0.40
-    vertical: 0.40
-    extra-horizontal: 0.42
-    extra-vertical: 0.08
-  Kohi:
-    horizontal: 0.38
-    vertical: 0.38
-    extra-horizontal: 0.40
-    extra-vertical: 0.08
-  Badlion:
-    horizontal: 0.39
-    vertical: 0.40
-    extra-horizontal: 0.41
-    extra-vertical: 0.08
-  Lunar:
-    horizontal: 0.40
-    vertical: 0.39
-    extra-horizontal: 0.40
-    extra-vertical: 0.08
-```
 <img src="https://raw.githubusercontent.com/Iwahukkit/Iwahu-s-Knockback-Changer/refs/heads/main/installation.png" width="400">
 
 - Download the latest .jar release or build the project using Maven/Gradle.
