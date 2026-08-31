@@ -1,5 +1,7 @@
 <center>
+  
 [![LOGO](https://raw.githubusercontent.com/Iwahukkit/Iwahu-s-Knockback-Changer/refs/heads/main/iwahusknockback.png)]()
+  
 </center>
 
 A lightweight, high-performance Spigot/Paper 1.8 knockback management plugin designed to give server owners precise control over PvP physics and server combat feel.
