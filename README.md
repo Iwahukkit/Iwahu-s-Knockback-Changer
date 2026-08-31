@@ -20,10 +20,13 @@ A lightweight, high-performance Spigot/Paper 1.8 knockback management plugin des
 
 The `config.yml` includes pre-configured settings inspired by legendary practice networks:
 
- **Min\*\m\*\n Club (M\*\C)**
- **K\*\hi**
- **Badli\*\n**
- **Lun\*\r**
+ **Min3m3n Club (MMC)**
+ 
+ **K0hi**
+ 
+ **Badli0n**
+ 
+ **Lun4r**
 
 ---
 
