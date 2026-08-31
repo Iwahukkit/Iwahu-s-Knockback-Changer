@@ -1,0 +1,8 @@
+name: IwahusKnockbackChanger
+version: 1.0
+main: me.iwahu.kbc.IwahusKnockbackChanger
+api-version: 1.8
+commands:
+  ikb:
+    description: Iwahu's Knockback Changer main command
+    permission: iwahukb.admin

@@ -1,0 +1,22 @@
+knockback:
+  horizontal: 0.4
+  vertical: 0.4
+
+# --- POPULAR SERVER PRESETS (For your reference) ---
+#
+# # MMC (Minemen Club) - Fluid and combo-oriented
+# horizontal: 0.40
+# vertical: 0.32
+#
+# # KOHI - Heavy, solid and HCF style
+# horizontal: 0.35
+# vertical: 0.27
+#
+# # BADLION
+# horizontal: 0.38
+# vertical: 0.35
+#
+# # LUNAR
+# horizontal: 0.39
+# vertical: 0.33
+
