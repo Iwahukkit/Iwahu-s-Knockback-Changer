@@ -32,7 +32,7 @@ The `config.yml` includes pre-configured settings inspired by legendary practice
 
 <img src="https://raw.githubusercontent.com/Iwahukkit/Iwahu-s-Knockback-Changer/refs/heads/main/installation.png" width="400">
 
-- Download the latest .jar release or build the project using Maven/Gradle.
+- Download the latest .jar release or build the project using Maven.
 
 - Drop the file into your server's plugins/ directory.
 
