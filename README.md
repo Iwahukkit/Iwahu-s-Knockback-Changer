@@ -11,7 +11,7 @@ A lightweight, high-performance Spigot/Paper 1.8 knockback management plugin des
 
 ---
 
-[![Preset](https://raw.githubusercontent.com/Iwahukkit/Iwahu-s-Knockback-Changer/refs/heads/main/presets.png)]()
+<img src="https://raw.githubusercontent.com/Iwahukkit/Iwahu-s-Knockback-Changer/refs/heads/main/presets.png" width="400">
 The `config.yml` includes pre-configured settings inspired by legendary practice networks:
 - **\Min*m*n Clb (M*C)\**
 - **\K*hi\**
