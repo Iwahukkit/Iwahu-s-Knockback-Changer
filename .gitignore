@@ -8,10 +8,8 @@
 target/
 build/
 out/
-
-# Class Files
+iwahusknockback.png
 *.class
 
-# Operating System Files
 .DS_Store
 Thumbs.db
