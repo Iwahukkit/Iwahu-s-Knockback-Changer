@@ -1,15 +1,19 @@
-# IntelliJ IDEA
+
 .idea/
 *.iml
 *.iws
 *.ipr
 
-# Build and Target Outputs
+
 target/
 build/
 out/
-iwahusknockback.png
+
+
 *.class
+
 
 .DS_Store
 Thumbs.db
+
+*.png
