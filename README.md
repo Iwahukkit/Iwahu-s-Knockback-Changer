@@ -13,10 +13,10 @@ A lightweight, high-performance Spigot/Paper 1.8 knockback management plugin des
 
 ## Included Presets
 The `config.yml` includes pre-configured settings inspired by legendary practice networks:
-- **Min*m*n Cl*b (M*C)**
-- **K*hi**
-- **Badli*n**
-- **Lun*r**
+- **\Min*m*n Clb (M*C)\**
+- **\K*hi\**
+- **\Badli*n\**
+- **\Lun*r\**
 
 ---
 
