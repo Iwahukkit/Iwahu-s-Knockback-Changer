@@ -1,6 +1,6 @@
 <center>
   
-[![LOGO](https://raw.githubusercontent.com/Iwahukkit/Iwahu-s-Knockback-Changer/refs/heads/main/iwahusknockback.png)]()
+[![LOGO](https://raw.githubusercontent.com/Iwahukkit/Iwahu-s-Knockback-Changer/refs/heads/main/iwahusknockbackchanger.png)]()
 
 [![CRAFTBUKKIT](https://img.shields.io/badge/CraftBukkit-1.8x-ea7233)]()
 [![LICENSE](https://img.shields.io/badge/License-AGPLv3.0-blue)](https://github.com/Iwahukkit/Iwahu-s-Knockback-Changer/blob/main/LICENSE)
