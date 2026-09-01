@@ -8,7 +8,7 @@
 [![STARS](https://img.shields.io/github/stars/Iwahukkit/StuckHelper)](https://github.com/Iwahukkit/Iwahu-s-Knockback-Changer/)
 [![BukkitDevD](https://img.shields.io/curseforge/dt/1676293?label=Bukkit%20Downloads&style=flat&color=blue)](https://dev.bukkit.org/projects/iwahusknockbackchanger)
 [![Spigot](https://img.shields.io/spiget/downloads/138427?style=flat&logo=spigotmc&label=Downloads)](https://www.spigotmc.org/resources/iwahus-knockback-changer.138427/)
-[![Release](https://img.shields.io/badge/Release-1.0-blue)]()
+[![Release](https://img.shields.io/badge/Release-1.0-blue)](https://github.com/Iwahukkit/Iwahu-s-Knockback-Changer/releases/tag/1.0)
 
 </center>
 
